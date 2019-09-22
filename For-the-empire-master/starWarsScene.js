@@ -14,7 +14,7 @@ function seeRebelsEscape(rebels) {
 
   /*do {
     escapedRebelCalls.push('Oh no! They\'re getting away!')
-    i++ */
+    i++  old cod  */
   while (rebels[i] && rebels[i]['plotArmor']) {
     escapedRebelCalls.push('Oh no! They\'re getting away!')
     i++

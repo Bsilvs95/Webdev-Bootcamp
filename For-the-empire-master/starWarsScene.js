@@ -12,9 +12,7 @@ function seeRebelsEscape(rebels) {
   var escapedRebelCalls = []
   var i = 0
 
-  /*do {
-    escapedRebelCalls.push('Oh no! They\'re getting away!')
-    i++  old cod  */
+
   while (rebels[i] && rebels[i]['plotArmor']) {
     escapedRebelCalls.push('Oh no! They\'re getting away!')
     i++
